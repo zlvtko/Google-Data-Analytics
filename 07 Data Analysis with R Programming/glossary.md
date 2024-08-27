@@ -1,0 +1,2 @@
+R: A programming language used for statistical analysis, visualization, and other data analysis
+IDE (Integrated Development Environment): A software application that brings together all the tools a data analyst may want to use in a single place
