@@ -1,3 +1,4 @@
+## Module 1 
 - Alternative text: Text that provides an alternative to non-text content, such as images and videos
 - Annotation: Text that briefly explains data or helps focus the audience on a particular aspect of the data in a visualization
 - AVERAGEIF: A spreadsheet function that returns the average of all cell values from a given range that meet a specified condition 
@@ -56,7 +57,7 @@
 - Visual form: The appearance of a data visualization that gives it structure and aesthetic appeal
 - X-axis: The horizontal line of a graph usually placed at the bottom, which is often used to represent time scales and discrete categories
 - Y-axis: The vertical line of a graph usually placed to the left, which is often used to represent frequencies and other numerical variables
-##
+## Module 2
 - Area chart: A data visualization that uses individual data points for a changing variable connected by a continuous line with a filled in area underneath
 - Box plot: A data visualization that displays the distribution of values along an x-axis
 - Bubble chart: A data visualization that displays individual data points as bubbles,  comparing numeric values by their relative size 
@@ -74,7 +75,12 @@
 - Highlight table: A data visualization that uses conditional formatting and color on a table
 - Packed bubble chart: A data visualization that displays data in clustered circles
 - Symbol map: A data visualization that displays a mark over a given longitude and latitude
-##
+## Module 3
+- Data storytelling: Communicating the meaning of a dataset with visuals and a narrative that are customized for an audience
+- Engagement: Capturing and holding someone’s interest and attention during a data presentation
+- Live data: Data that is automatically updated 
+- Spotlightling: Scanning through data to quickly identify the most important insights
+## Module 4
 - Dashboard filter: A tool for showing only the data that meets a specific criteria while hiding the rest
 - Data blending: A Tableau method that combines data from multiple data sources
 - Framework: The context a presentation needs to create logical connections that tie back to the business task and metrics
