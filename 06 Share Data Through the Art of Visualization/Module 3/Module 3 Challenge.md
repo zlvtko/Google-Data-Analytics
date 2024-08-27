@@ -46,6 +46,6 @@ You prepare to communicate to stakeholders about an analysis project. You consid
 - Takeaways
 - **Engagement** (Correct)
 - Discussion
-## Question 9
+### Question 9
 Fill in the blank: Charts, graphs, and other dashboard elements should be cohesive, which means they are _______ and make good use of available space.
    - **balanced** (Correct)
