@@ -18,7 +18,7 @@ Fill in the blank: To ensure your audience is focused on what is being said, rat
 - 10 lines and 100 words
 ### Question 4
 What method should be used to add a presentation visual that will automatically update to reflect the latest information whenever the original dataset changes?
-- Linking** (Correct)
+- **Linking** (Correct)
 - Screenshotting
 - Embedding
 - Copying and pasting
