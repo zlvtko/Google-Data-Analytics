@@ -1,2 +1,6 @@
-- R: A programming language used for statistical analysis, visualization, and other data analysis
-- IDE (Integrated Development Environment): A software application that brings together all the tools a data analyst may want to use in a single place
+- R: A programming language used for statistical analysis, visualization, and other data analysis.
+- IDE (Integrated Development Environment): A software application that brings together all the tools a data analyst may want to use in a single place.
+- Argument: information that a function in R needs in order to run.
+- Variable: is a representation of a value in R that can be stored for use later during programming.
+- Vector: is a group of data elements of the same type stored in a sequence in R.
+- Pipe: is a tool in R for expressing a sequence of multiple operations.
