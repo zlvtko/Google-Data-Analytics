@@ -4,3 +4,4 @@
 - Variable: is a representation of a value in R that can be stored for use later during programming.
 - Vector: is a group of data elements of the same type stored in a sequence in R.
 - Pipe: is a tool in R for expressing a sequence of multiple operations.
+- Anscombe's quartet: four datasets that have nearly identical summary statistics. 
